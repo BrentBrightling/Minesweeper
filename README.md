@@ -1,4 +1,4 @@
 Minesweeper
 ===========
 
-Python minesweeper using PyGame
+Python version of Minesweeper made using pygame. Introduction into recursion.
