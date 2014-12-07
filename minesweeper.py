@@ -143,7 +143,7 @@ myfont = pygame.font.SysFont("monospace", 15)
 myfont2 = pygame.font.SysFont("aharoni", 30)
                 
       
-# Checking for mous click, if it his a mine, it draws a red box, if it hits a number or a 0 then it uncovers it using recursion
+# Checking for mouse click, if it his a mine, it draws a red box, if it hits a number or a 0 then it uncovers it using recursion
 x = 0
 while x == 0:    
     for event in pygame.event.get():
